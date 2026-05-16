@@ -1,5 +1,7 @@
 # Cubo 3D Rotacionando em C++ com OpenGL
 
+![Demo](assets/demo.gif)
+
 Projeto acadêmico desenvolvido para a disciplina de computação gráfica, utilizando C++ com OpenGL e GLUT para renderização de um cubo 3D com rotação contínua em tempo real.
 
 ---
